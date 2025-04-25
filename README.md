@@ -42,7 +42,7 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 ### **Performance Testing**
 [GTmetrix](https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_GTmetrix-report-open.spotify.com.pdf)
 
-[SpeedLab] https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_SpeedLab_%20open.spotify.com.html
+[SpeedLab](https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_SpeedLab_%20open.spotify.com.html)
 
 ### **Security Testing**
 
@@ -55,3 +55,4 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 [Test Plan](https://github.com/olxovsky/QA_Portfolio/blob/main/Test%20Plan%20Spotify%20Web%20Player.pdf)
 
 [Test Cases](https://github.com/olxovsky/QA_Portfolio/blob/main/01_Documentation/Cross-browser%20Matrix%20and%20TC_Spotify.pdf)
+

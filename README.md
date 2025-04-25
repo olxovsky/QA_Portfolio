@@ -40,11 +40,16 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 ### **Performance Testing**
 [GTmetrix](https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_GTmetrix-report-open.spotify.com.pdf)
 
+### **Security Testing**
+
 [Mozilla Observatory](https://github.com/olxovsky/QA_Portfolio/blob/main/04_Security%20Testing/Mozilla%20Observatory%20__%20Scan%20Results%20for%20open.spotify.com.pdf)
 
 [Snyk](https://github.com/olxovsky/QA_Portfolio/blob/main/04_Security%20Testing/Security%20Analysis%20for_%20open.spotify.com_%20Snyk.pdf)
 
+### **Documentation**
+
 [Test Plan](https://github.com/olxovsky/QA_Portfolio/blob/main/Test%20Plan%20Spotify%20Web%20Player.pdf)
 
 [Test Cases](https://github.com/olxovsky/QA_Portfolio/blob/main/01_Documentation/Cross-browser%20Matrix%20and%20TC_Spotify.pdf)
+
 

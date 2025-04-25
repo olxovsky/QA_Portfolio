@@ -31,6 +31,8 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 
 [Allure Report](https://github.com/olxovsky/QA_Portfolio/blob/main/02_Selenium%20WebDriver/AllureReport/Allure_Report_Spotify_WebPlayer_UnitTest.url)
 
+[BrowserStack Report](https://github.com/olxovsky/QA_Portfolio/blob/main/02_Selenium%20WebDriver/BrowserStack/BrowserStack_Spotify_Web_Player_Build%20report.pdf)
+
 [HTML Report 1](https://github.com/olxovsky/QA_Portfolio/blob/main/02_Selenium%20WebDriver/HtmlReports/TestResults___main__.Chrome_Spotify_Web_Player_2022-11-13_17-57-05.html)
 
 [HTML Report 2](https://github.com/olxovsky/QA_Portfolio/blob/main/02_Selenium%20WebDriver/HtmlReports/TestResults___main__.Edge_Spotify_Web_Player_2022-11-13_17-57-05.html)
@@ -39,6 +41,8 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 
 ### **Performance Testing**
 [GTmetrix](https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_GTmetrix-report-open.spotify.com.pdf)
+
+[SpeedLab] https://github.com/olxovsky/QA_Portfolio/blob/main/03_Performance%20Test/Performance_Test_SpeedLab_%20open.spotify.com.html
 
 ### **Security Testing**
 
@@ -51,5 +55,3 @@ $${\color{lightgreen} REST-API \space JAVA-SCRIPT \space POSTMAN }$$
 [Test Plan](https://github.com/olxovsky/QA_Portfolio/blob/main/Test%20Plan%20Spotify%20Web%20Player.pdf)
 
 [Test Cases](https://github.com/olxovsky/QA_Portfolio/blob/main/01_Documentation/Cross-browser%20Matrix%20and%20TC_Spotify.pdf)
-
-
